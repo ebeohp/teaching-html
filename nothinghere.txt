@@ -1,0 +1,16 @@
+<!--Can someone help me put a link to the footer of the page?-->
+                <a href= "#footer">Link to footer!</a>
+
+                <!--Can someone help em create a footer element with an id?-->
+        <footer id="footer">
+            <p>Suhani Goswami Fanpage 2020</p>
+        </footer>
+
+         <!--Can someone help me place a seal of approval on this page?-->
+    <img src = "image0.jpg" alt = "Sai seal of approval">
+
+    <!--Can someone help me put a link back to the homepage?-->
+    <a href = "index.html">Homepage</a>
+
+    !--THINKER: Can someone make the sai image a link to the homepage?-->
+    <a href = "index.html"><img src = "image0.jpg" alt = "Sai seal of approval"></a>
